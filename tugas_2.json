@@ -1,0 +1,82 @@
+[
+    {
+        "biodata":{
+        "nama":"Angelina Christy",
+        "tanggal_lahir":"05 Desember 2005",
+        "tinggi":"166 cm",
+        "golongan_darah":"O",
+        "horoskop":"Sagitarius",
+        "tim":"passion"
+    }
+    },
+
+    {
+        "biodata":{
+        "nama":"Abigail Rachel",
+        "tanggal_lahir":"06 Agustus 2008",
+        "tinggi":"164 cm",
+        "golongan_darah":"B",
+        "horoskop":"Leo",
+        "tim":"passion"
+    }
+    },
+
+    {
+        "biodata":{
+        "nama":"Mutiara Azzahra",
+        "tanggal_lahir":"12 Juli 2004",
+        "tinggi":"165 cm",
+        "golongan_darah":"B",
+        "horoskop":"Cancer",
+        "tim":"passion"
+        }
+    },
+
+    {
+        "biodata":{
+        "nama":"Victoria Kimberly",
+        "tanggal_lahir":"08 Maret 2010",
+        "tinggi":"162 cm",
+        "golongan_darah":"AB",
+        "horoskop":"Pisces",
+        "tim":"passion"
+        }
+    },
+
+    {
+        "biodata":{
+        "nama":"Ribka Budiman",
+        "tanggal_lahir":"13 Januari 2009",
+        "tinggi":"162 cm",
+        "golongan_darah":"O",
+        "horoskop":"Capricorn",
+        "tim":"passion"
+        }
+    },
+
+     {
+        "biodata":{
+        "nama":"Desy Natalia",
+        "tanggal_lahir":"16 Desember 2005",
+        "tinggi":"165 cm",
+        "golongan_darah":"O",
+        "horoskop":"Sagitarius",
+        "tim":"passion"
+        }
+    },
+
+    {
+        "biodata":{
+        "nama":"Kathrina Irene",
+        "tanggal_lahir":"26 Juli 2006",
+        "tinggi":"166 cm",
+        "golongan_darah":"A",
+        "horoskop":"Leo",
+        "tim":"passion"
+        }
+    }
+]
+
+
+
+
